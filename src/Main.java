@@ -3,7 +3,7 @@ public class Main {
         int cost = 12000;
         int bonus = 20;
         int mile;
-        mile = cost/bonus;
+        mile = cost / bonus;
         System.out.println("Твои мили за покупку: " + mile);
     }
 }
